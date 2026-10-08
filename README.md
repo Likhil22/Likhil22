@@ -49,101 +49,83 @@ Hi! I'm **Likhil**, an Electronics and Communication Engineering student interes
 
 <!-- ═══════════════ AREAS OF INTEREST ═══════════════ -->
 
+
 ## `03` / Engineering Interests
 
+<div align="center">
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### ◈ Digital Electronics
 
 Exploring digital logic, Boolean algebra, and logic circuits.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### ◈ Embedded Systems
 
 Learning how firmware interacts with microcontrollers and hardware.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ◈ VLSI Design
 
-Building a foundation for understanding digital IC design and semiconductors.
+Building a foundation in digital IC design and semiconductor technology.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### ◈ Circuit Analysis
 
 Studying analog electronics and network analysis as part of my ECE coursework.
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
+</div>
 
 ## `04` / Project Lab
 
-A collection of projects and experiments from my learning journey.
+*A collection of projects and experiments from my learning journey.*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🔌 Timer Interrupt-Based LED Controller
 
-**Repository:** [YuvaIntern-Week2-Firmware](https://github.com/Likhil22/YuvaIntern-Week2-Firmware)
+[**↗ View Repository: YuvaIntern-Week2-Firmware**](https://github.com/Likhil22/YuvaIntern-Week2-Firmware)
 
 An Arduino Uno firmware project involving timer interrupts, LED control, and UART communication.
 
-`Arduino Uno` `Firmware` `UART`
+`Arduino Uno` · `Firmware` · `UART`
 
-<br/>
+<p>
+  <a href="https://github.com/Likhil22/YuvaIntern-Week2-Firmware">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="View project" />
+  </a>
+</p>
 
-<a href="https://github.com/Likhil22/YuvaIntern-Week2-Firmware">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="View firmware project" />
-</a>
-
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 🌱 AgriAI
 
-**Repository:** [agriai](https://github.com/Likhil22/agriai)
+[**↗ View Repository: agriai**](https://github.com/Likhil22/agriai)
 
-Explore my AgriAI repository to see the project, its implementation, and the work behind it.
+Explore my AgriAI repository to learn about the project, its implementation, and its development.
 
-<br/><br/>
+<p>
+  <a href="https://github.com/Likhil22/agriai">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Explore AgriAI" />
+  </a>
+</p>
 
-<a href="https://github.com/Likhil22/agriai">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPO-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Explore AgriAI repository" />
-</a>
-
-    </td>
-  </tr>
-</table>
-
-<!-- ═══════════════ CURRENT LEARNING ═══════════════ -->
-
-## `05` / Currently Learning
-
-```text
-[01]  C Programming
-[02]  Digital Electronics
-[03]  Analog Electronics
-[04]  Network Analysis
-[05]  Embedded Systems fundamentals
-[06]  VLSI foundations — an area of interest
-```
-
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
+---
 ## `06` / GitHub Analytics
 
 <div align="center">
@@ -172,6 +154,33 @@ Explore my AgriAI repository to see the project, its implementation, and the wor
 
 </div>
 
+<h2 align="center">// LET'S CONNECT_</h2>
+
+<p align="center">
+  <samp>Have an idea, an electronics project, or an opportunity?</samp>
+  <br/>
+  <samp>Let's connect, collaborate, and build something meaningful.</samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Likhil22">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0B0F14?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/s-r-likhil-514625384">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0B0F14?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:srlikhil04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hello-0B0F14?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <samp>ECE • EMBEDDED SYSTEMS • VLSI</samp>
+  <br/><br/>
+  <sub>Building my future, one circuit at a time. ⚡</sub>
+</p>
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
