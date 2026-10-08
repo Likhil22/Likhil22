@@ -33,7 +33,7 @@ I'm an **Electronics and Communication Engineering (ECE) student** interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,arduino,git,github,vscode&theme=dark" alt="C, Arduino, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,vscode&theme=dark" alt="C, C++, Arduino, Git, GitHub and VS Code"/>
 
 <br/><br/>
 
