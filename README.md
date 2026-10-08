@@ -3,13 +3,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Likhil+%F0%9F%91%8B;ECE+Student;Exploring+Embedded+Systems+%26+VLSI" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Likhil+%F0%9F%91%8B;Electronics+%26+Communication+Engineering;Exploring+Embedded+Systems+%26+VLSI" alt="Animated introduction" />
 
-<p>
-  <b>Electronics & Communication Engineering</b>
-  <br/>
-  <sub>Hardware · Firmware · Semiconductor Technology</sub>
-</p>
+<br/>
+
+<b>Electronics & Communication Engineering</b>
+<br/>
+<sub>Hardware · Firmware · Semiconductor Technology</sub>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:22D3EE&height=2" width="85%" alt="Cyan divider"/>
 
@@ -22,10 +24,10 @@
 I'm an **Electronics and Communication Engineering (ECE) student** interested in the intersection of hardware and software.
 
 - 🎓 ECE undergraduate
-- 💻 Programming in C
+- 💻 Learning and programming in C
 - 🔌 Exploring Embedded Systems and microcontrollers
 - ⚡ Interested in VLSI design and semiconductor technology
-- 🧩 Building my foundation through electronics and firmware projects
+- 🧩 Strengthening my fundamentals through electronics and firmware projects
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -35,11 +37,13 @@ I'm an **Electronics and Communication Engineering (ECE) student** interested in
 
 <img src="https://skillicons.dev/icons?i=c,arduino,git,github,vscode&theme=dark" alt="C, Arduino, Git, GitHub and VS Code"/>
 
-</div>
+<br/><br/>
 
-<p align="center">
-  <sub>Tools and technologies used in my learning and project work.</sub>
-</p>
+<img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&logo=arduino&logoColor=22D3EE" alt="Embedded Systems"/>
+<img src="https://img.shields.io/badge/Digital%20Electronics-0D1117?style=flat-square&logoColor=22D3EE" alt="Digital Electronics"/>
+<img src="https://img.shields.io/badge/UART-0D1117?style=flat-square&logoColor=22D3EE" alt="UART"/>
+
+</div>
 
 <!-- ==================== PROJECT LAB ==================== -->
 
@@ -47,19 +51,17 @@ I'm an **Electronics and Communication Engineering (ECE) student** interested in
 
 ### 🔌 Timer Interrupt-Based LED Controller
 
-An Arduino Uno firmware project involving timer interrupts, LED control, and UART communication.
-
-**Repository:** [YuvaIntern-Week2-Firmware](https://github.com/Likhil22/YuvaIntern-Week2-Firmware)
-
-<p>
-  <img src="https://img.shields.io/badge/Platform-Arduino%20Uno-22D3EE?style=flat-square&logo=arduino&logoColor=black" alt="Arduino Uno"/>
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Firmware-22D3EE?style=flat-square" alt="Embedded firmware"/>
-  <img src="https://img.shields.io/badge/Communication-UART-22D3EE?style=flat-square" alt="UART"/>
-</p>
+An Arduino Uno firmware project focused on timer interrupts, LED control, and UART communication.
 
 <a href="https://github.com/Likhil22/YuvaIntern-Week2-Firmware">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="View project"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="View project"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Platform-Arduino%20Uno-0D1117?style=flat-square&logo=arduino&logoColor=22D3EE" alt="Arduino Uno"/>
+<img src="https://img.shields.io/badge/Focus-Embedded%20Firmware-0D1117?style=flat-square&logoColor=22D3EE" alt="Embedded firmware"/>
+<img src="https://img.shields.io/badge/Communication-UART-0D1117?style=flat-square&logoColor=22D3EE" alt="UART"/>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
@@ -79,27 +81,28 @@ An Arduino Uno firmware project involving timer interrupts, LED control, and UAR
 
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
-## ⚡ Engineering Lab
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:22D3EE&height=140&section=header&text=DESIGN%20%2F%20BUILD%20%2F%20DEBUG&fontSize=22&fontColor=E6EDF3&animation=fadeIn" width="100%" alt="Design Build Debug — electronics engineering banner" />
 
-  <p><em>Exploring electronics, embedded systems, and the world of VLSI.</em></p>
+<img src="https://raw.githubusercontent.com/Likhil22/Likhil22/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
 </div>
 
+<!-- ==================== LET'S CONNECT ==================== -->
+
+<div align="center">
 
 <h2>// LET'S CONNECT_</h2>
 
-<p>
-  <sub>Always open to connecting, learning, and sharing ideas.</sub>
-</p>
+<p>Always open to connecting, learning, and sharing ideas.</p>
 
 <a href="https://www.linkedin.com/in/s-r-likhil-514625384">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="Connect on LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:srlikhil04@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Send an email"/>
 </a>
 
 <br/><br/>
@@ -109,5 +112,9 @@ An Arduino Uno firmware project involving timer interrupts, LED control, and UAR
 <br/><br/>
 
 <sub>Building my future, one circuit at a time. ⚡</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:22D3EE&height=120&section=footer" width="100%" alt="Cyan electronics-themed footer"/>
 
 </div>
