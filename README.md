@@ -1,19 +1,17 @@
 
-<!-- ==================== HERO ==================== -->
+<!-- ==================== TOP ANIMATED BANNER ==================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Likhil+%F0%9F%91%8B;Electronics+%26+Communication+Engineering;Exploring+Embedded+Systems+%26+VLSI" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0D3444,100:22D3EE&height=180&section=header&text=DESIGN%20%2F%20BUILD%20%2F%20DEBUG&fontSize=28&fontColor=E6EDF3&fontAlignY=45&animation=fadeIn" width="100%" alt="Animated electronics banner"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Likhil+%F0%9F%91%8B;ECE+Student;Exploring+Embedded+Systems+%26+VLSI" alt="Animated introduction"/>
 
-<b>Electronics & Communication Engineering</b>
-<br/>
-<sub>Hardware · Firmware · Semiconductor Technology</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:22D3EE&height=2" width="85%" alt="Cyan divider"/>
+<p>
+  <b>Electronics & Communication Engineering</b>
+  <br/>
+  <sub>Hardware · Firmware · Semiconductor Technology</sub>
+</p>
 
 </div>
 
@@ -40,8 +38,8 @@ I'm an **Electronics and Communication Engineering (ECE) student** interested in
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&logo=arduino&logoColor=22D3EE" alt="Embedded Systems"/>
-<img src="https://img.shields.io/badge/Digital%20Electronics-0D1117?style=flat-square&logoColor=22D3EE" alt="Digital Electronics"/>
-<img src="https://img.shields.io/badge/UART-0D1117?style=flat-square&logoColor=22D3EE" alt="UART"/>
+<img src="https://img.shields.io/badge/Digital%20Electronics-0D1117?style=flat-square" alt="Digital Electronics"/>
+<img src="https://img.shields.io/badge/UART-0D1117?style=flat-square" alt="UART"/>
 
 </div>
 
@@ -60,8 +58,8 @@ An Arduino Uno firmware project focused on timer interrupts, LED control, and UA
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Platform-Arduino%20Uno-0D1117?style=flat-square&logo=arduino&logoColor=22D3EE" alt="Arduino Uno"/>
-<img src="https://img.shields.io/badge/Focus-Embedded%20Firmware-0D1117?style=flat-square&logoColor=22D3EE" alt="Embedded firmware"/>
-<img src="https://img.shields.io/badge/Communication-UART-0D1117?style=flat-square&logoColor=22D3EE" alt="UART"/>
+<img src="https://img.shields.io/badge/Focus-Embedded%20Firmware-0D1117?style=flat-square" alt="Embedded firmware"/>
+<img src="https://img.shields.io/badge/Communication-UART-0D1117?style=flat-square" alt="UART"/>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
@@ -79,7 +77,7 @@ An Arduino Uno firmware project focused on timer interrupts, LED control, and UA
 
 </div>
 
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 ## 🐍 Contribution Activity
 
@@ -113,8 +111,12 @@ An Arduino Uno firmware project focused on timer interrupts, LED control, and UA
 
 <sub>Building my future, one circuit at a time. ⚡</sub>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:22D3EE&height=120&section=footer" width="100%" alt="Cyan electronics-themed footer"/>
+<!-- ==================== BOTTOM ANIMATED BANNER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:22D3EE&height=180&section=footer" width="100%" alt="Animated electronics footer banner"/>
 
 </div>
